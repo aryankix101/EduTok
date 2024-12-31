@@ -1,0 +1,1121 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="793pt" height="1028pt" viewBox="0.00 0.00 793.00 1028.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1024)">
+<ns0:title>inheritancefd859ee742</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>AddTextLetterByLetter</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../reference/manim.animation.creation.AddTextLetterByLetter.html#manim.animation.creation.AddTextLetterByLetter" ns1:title="Show a :class:`~.Text` letter by letter on the scene." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="397.5,-929 280.5,-929 280.5,-910 397.5,-910 397.5,-929" />
+<ns0:text text-anchor="middle" x="339" y="-917" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">AddTextLetterByLetter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node49" class="node">
+<ns0:title>RemoveTextLetterByLetter</ns0:title>
+<ns0:g id="a_node49"><ns0:a ns1:href="../reference/manim.animation.creation.RemoveTextLetterByLetter.html#manim.animation.creation.RemoveTextLetterByLetter" ns1:title="Remove a :class:`~.Text` letter by letter from the scene." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="603,-929 464,-929 464,-910 603,-910 603,-929" />
+<ns0:text text-anchor="middle" x="533.5" y="-917" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">RemoveTextLetterByLetter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge40" class="edge">
+<ns0:title>AddTextLetterByLetter-&gt;RemoveTextLetterByLetter</ns0:title>
+<ns0:path fill="none" stroke="black" d="M397.62,-919.5C397.62,-919.5 458.69,-919.5 458.69,-919.5" />
+<ns0:polygon fill="black" stroke="black" points="458.69,-921.25 463.69,-919.5 458.69,-917.75 458.69,-921.25" />
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>ShowIncreasingSubsets</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../reference/manim.animation.creation.ShowIncreasingSubsets.html#manim.animation.creation.ShowIncreasingSubsets" ns1:title="Show one submobject at a time, leaving all previous ones displayed on screen." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="205,-903 82,-903 82,-884 205,-884 205,-903" />
+<ns0:text text-anchor="middle" x="143.5" y="-891" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ShowIncreasingSubsets</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>ShowIncreasingSubsets-&gt;AddTextLetterByLetter</ns0:title>
+<ns0:path fill="none" stroke="black" d="M188,-903.18C188,-910.57 188,-919.5 188,-919.5 188,-919.5 275.19,-919.5 275.19,-919.5" />
+<ns0:polygon fill="black" stroke="black" points="275.19,-921.25 280.19,-919.5 275.19,-917.75 275.19,-921.25" />
+</ns0:g>
+
+<ns0:g id="node57" class="node">
+<ns0:title>ShowSubmobjectsOneByOne</ns0:title>
+<ns0:g id="a_node57"><ns0:a ns1:href="../reference/manim.animation.creation.ShowSubmobjectsOneByOne.html#manim.animation.creation.ShowSubmobjectsOneByOne" ns1:title="Show one submobject at a time, removing all previously displayed ones from screen." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="414,-903 264,-903 264,-884 414,-884 414,-903" />
+<ns0:text text-anchor="middle" x="339" y="-891" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ShowSubmobjectsOneByOne</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge50" class="edge">
+<ns0:title>ShowIncreasingSubsets-&gt;ShowSubmobjectsOneByOne</ns0:title>
+<ns0:path fill="none" stroke="black" d="M205.09,-893.5C205.09,-893.5 258.99,-893.5 258.99,-893.5" />
+<ns0:polygon fill="black" stroke="black" points="259,-895.25 263.99,-893.5 258.99,-891.75 259,-895.25" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>AddTextWordByWord</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../reference/manim.animation.creation.AddTextWordByWord.html#manim.animation.creation.AddTextWordByWord" ns1:title="Show a :class:`~.Text` word by word on the scene. Note: currently broken." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="588.5,-903 478.5,-903 478.5,-884 588.5,-884 588.5,-903" />
+<ns0:text text-anchor="middle" x="533.5" y="-891" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">AddTextWordByWord</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>Succession</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../reference/manim.animation.composition.Succession.html#manim.animation.composition.Succession" ns1:title="Plays a series of animations in succession." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="370.5,-877 307.5,-877 307.5,-858 370.5,-858 370.5,-877" />
+<ns0:text text-anchor="middle" x="339" y="-865" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Succession</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>Succession-&gt;AddTextWordByWord</ns0:title>
+<ns0:path fill="none" stroke="black" d="M370.82,-870.67C413.5,-870.67 484,-870.67 484,-870.67 484,-870.67 484,-878.95 484,-878.95" />
+<ns0:polygon fill="black" stroke="black" points="482.25,-878.95 484,-883.95 485.75,-878.95 482.25,-878.95" />
+</ns0:g>
+
+<ns0:g id="node23" class="node">
+<ns0:title>Circumscribe</ns0:title>
+<ns0:g id="a_node23"><ns0:a ns1:href="../reference/manim.animation.indication.Circumscribe.html#manim.animation.indication.Circumscribe" ns1:title="Draw a temporary line surrounding the mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="569.5,-877 497.5,-877 497.5,-858 569.5,-858 569.5,-877" />
+<ns0:text text-anchor="middle" x="533.5" y="-865" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Circumscribe</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge16" class="edge">
+<ns0:title>Succession-&gt;Circumscribe</ns0:title>
+<ns0:path fill="none" stroke="black" d="M370.68,-864.33C370.68,-864.33 492.2,-864.33 492.2,-864.33" />
+<ns0:polygon fill="black" stroke="black" points="492.2,-866.08 497.2,-864.33 492.2,-862.58 492.2,-866.08" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>AnimatedBoundary</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../reference/manim.animation.changing.AnimatedBoundary.html#manim.animation.changing.AnimatedBoundary" ns1:title="Boundary of a :class:`.VMobject` with animated color change." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="584.5,-981 482.5,-981 482.5,-962 584.5,-962 584.5,-981" />
+<ns0:text text-anchor="middle" x="533.5" y="-969" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">AnimatedBoundary</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>VGroup</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../reference/manim.mobject.types.vectorized_mobject.VGroup.html#manim.mobject.types.vectorized_mobject.VGroup" ns1:title="A group of vectorized mobjects." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="361.5,-981 316.5,-981 316.5,-962 361.5,-962 361.5,-981" />
+<ns0:text text-anchor="middle" x="339" y="-969" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">VGroup</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>VGroup-&gt;AnimatedBoundary</ns0:title>
+<ns0:path fill="none" stroke="black" d="M361.69,-971.5C361.69,-971.5 477.21,-971.5 477.21,-971.5" />
+<ns0:polygon fill="black" stroke="black" points="477.21,-973.25 482.21,-971.5 477.21,-969.75 477.21,-973.25" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>Animation</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../reference/manim.animation.animation.Animation.html#manim.animation.animation.Animation" ns1:title="An animation." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="59,-214 0,-214 0,-195 59,-195 59,-214" />
+<ns0:text text-anchor="middle" x="29.5" y="-202" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Animation</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge46" class="edge">
+<ns0:title>Animation-&gt;ShowIncreasingSubsets</ns0:title>
+<ns0:path fill="none" stroke="black" d="M59.26,-205.67C73.29,-205.67 87,-205.67 87,-205.67 87,-205.67 87,-878.78 87,-878.78" />
+<ns0:polygon fill="black" stroke="black" points="85.25,-878.78 87,-883.78 88.75,-878.78 85.25,-878.78" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>AnimationGroup</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../reference/manim.animation.composition.AnimationGroup.html#manim.animation.composition.AnimationGroup" ns1:title="Plays a group or series of :class:`~.Animation`." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="187.5,-812 99.5,-812 99.5,-793 187.5,-793 187.5,-812" />
+<ns0:text text-anchor="middle" x="143.5" y="-800" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">AnimationGroup</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>Animation-&gt;AnimationGroup</ns0:title>
+<ns0:path fill="none" stroke="black" d="M12,-214.38C12,-292.13 12,-802.5 12,-802.5 12,-802.5 94.35,-802.5 94.35,-802.5" />
+<ns0:polygon fill="black" stroke="black" points="94.35,-804.25 99.35,-802.5 94.35,-800.75 94.35,-804.25" />
+</ns0:g>
+
+<ns0:g id="node12" class="node">
+<ns0:title>Transform</ns0:title>
+<ns0:g id="a_node12"><ns0:a ns1:href="../reference/manim.animation.transform.Transform.html#manim.animation.transform.Transform" ns1:title="A Transform transforms a Mobject into a target Mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="172,-539 115,-539 115,-520 172,-520 172,-539" />
+<ns0:text text-anchor="middle" x="143.5" y="-527" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Transform</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge58" class="edge">
+<ns0:title>Animation-&gt;Transform</ns0:title>
+<ns0:path fill="none" stroke="black" d="M18,-214.23C18,-268.3 18,-529.5 18,-529.5 18,-529.5 109.71,-529.5 109.71,-529.5" />
+<ns0:polygon fill="black" stroke="black" points="109.71,-531.25 114.71,-529.5 109.71,-527.75 109.71,-531.25" />
+</ns0:g>
+
+<ns0:g id="node17" class="node">
+<ns0:title>Homotopy</ns0:title>
+<ns0:g id="a_node17"><ns0:a ns1:href="../reference/manim.animation.movement.Homotopy.html#manim.animation.movement.Homotopy" ns1:title="A Homotopy." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="173.5,-331 113.5,-331 113.5,-312 173.5,-312 173.5,-331" />
+<ns0:text text-anchor="middle" x="143.5" y="-319" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Homotopy</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge32" class="edge">
+<ns0:title>Animation-&gt;Homotopy</ns0:title>
+<ns0:path fill="none" stroke="black" d="M24,-214.07C24,-242.02 24,-321.5 24,-321.5 24,-321.5 108.35,-321.5 108.35,-321.5" />
+<ns0:polygon fill="black" stroke="black" points="108.35,-323.25 113.35,-321.5 108.35,-319.75 108.35,-323.25" />
+</ns0:g>
+
+<ns0:g id="node21" class="node">
+<ns0:title>ChangingDecimal</ns0:title>
+<ns0:g id="a_node21"><ns0:a ns1:href="../reference/manim.animation.numbers.ChangingDecimal.html#manim.animation.numbers.ChangingDecimal" ns1:title="ChangingDecimal" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="191,-305 96,-305 96,-286 191,-286 191,-305" />
+<ns0:text text-anchor="middle" x="143.5" y="-293" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ChangingDecimal</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge15" class="edge">
+<ns0:title>Animation-&gt;ChangingDecimal</ns0:title>
+<ns0:path fill="none" stroke="black" d="M30,-214.24C30,-237.71 30,-295.5 30,-295.5 30,-295.5 90.69,-295.5 90.69,-295.5" />
+<ns0:polygon fill="black" stroke="black" points="90.69,-297.25 95.69,-295.5 90.69,-293.75 90.69,-297.25" />
+</ns0:g>
+
+<ns0:g id="node22" class="node">
+<ns0:title>ChangeSpeed</ns0:title>
+<ns0:g id="a_node22"><ns0:a ns1:href="../reference/manim.animation.speedmodifier.ChangeSpeed.html#manim.animation.speedmodifier.ChangeSpeed" ns1:title="Modifies the speed of passed animation." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="181,-279 106,-279 106,-260 181,-260 181,-279" />
+<ns0:text text-anchor="middle" x="143.5" y="-267" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ChangeSpeed</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge14" class="edge">
+<ns0:title>Animation-&gt;ChangeSpeed</ns0:title>
+<ns0:path fill="none" stroke="black" d="M36,-214.09C36,-232.17 36,-269.5 36,-269.5 36,-269.5 100.9,-269.5 100.9,-269.5" />
+<ns0:polygon fill="black" stroke="black" points="100.9,-271.25 105.9,-269.5 100.9,-267.75 100.9,-271.25" />
+</ns0:g>
+
+<ns0:g id="node28" class="node">
+<ns0:title>ShowPartial</ns0:title>
+<ns0:g id="a_node28"><ns0:a ns1:href="../reference/manim.animation.creation.ShowPartial.html#manim.animation.creation.ShowPartial" ns1:title="Abstract class for Animations that show the VMobject partially." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="176.5,-253 110.5,-253 110.5,-234 176.5,-234 176.5,-253" />
+<ns0:text text-anchor="middle" x="143.5" y="-241" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ShowPartial</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge47" class="edge">
+<ns0:title>Animation-&gt;ShowPartial</ns0:title>
+<ns0:path fill="none" stroke="black" d="M42,-214.34C42,-225.89 42,-243.5 42,-243.5 42,-243.5 105.27,-243.5 105.27,-243.5" />
+<ns0:polygon fill="black" stroke="black" points="105.27,-245.25 110.27,-243.5 105.27,-241.75 105.27,-245.25" />
+</ns0:g>
+
+<ns0:g id="node30" class="node">
+<ns0:title>DrawBorderThenFill</ns0:title>
+<ns0:g id="a_node30"><ns0:a ns1:href="../reference/manim.animation.creation.DrawBorderThenFill.html#manim.animation.creation.DrawBorderThenFill" ns1:title="Draw the border first and then show the fill." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="196,-227 91,-227 91,-208 196,-208 196,-227" />
+<ns0:text text-anchor="middle" x="143.5" y="-215" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">DrawBorderThenFill</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge22" class="edge">
+<ns0:title>Animation-&gt;DrawBorderThenFill</ns0:title>
+<ns0:path fill="none" stroke="black" d="M48,-214.36C48,-217.65 48,-220.5 48,-220.5 48,-220.5 85.72,-220.5 85.72,-220.5" />
+<ns0:polygon fill="black" stroke="black" points="85.72,-222.25 90.72,-220.5 85.72,-218.75 85.72,-222.25" />
+</ns0:g>
+
+<ns0:g id="node44" class="node">
+<ns0:title>MaintainPositionRelativeTo</ns0:title>
+<ns0:g id="a_node44"><ns0:a ns1:href="../reference/manim.animation.updaters.update.MaintainPositionRelativeTo.html#manim.animation.updaters.update.MaintainPositionRelativeTo" ns1:title="MaintainPositionRelativeTo" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="214,-201 73,-201 73,-182 214,-182 214,-201" />
+<ns0:text text-anchor="middle" x="143.5" y="-189" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MaintainPositionRelativeTo</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge36" class="edge">
+<ns0:title>Animation-&gt;MaintainPositionRelativeTo</ns0:title>
+<ns0:path fill="none" stroke="black" d="M59.11,-203.33C69.21,-203.33 78,-203.33 78,-203.33 78,-203.33 78,-203.11 78,-203.11" />
+<ns0:polygon fill="black" stroke="black" points="79.75,-206.05 78,-201.05 76.25,-206.05 79.75,-206.05" />
+</ns0:g>
+
+<ns0:g id="node46" class="node">
+<ns0:title>MoveAlongPath</ns0:title>
+<ns0:g id="a_node46"><ns0:a ns1:href="../reference/manim.animation.movement.MoveAlongPath.html#manim.animation.movement.MoveAlongPath" ns1:title="Make one mobject move along the path of another mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="185.5,-175 101.5,-175 101.5,-156 185.5,-156 185.5,-175" />
+<ns0:text text-anchor="middle" x="143.5" y="-163" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MoveAlongPath</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge37" class="edge">
+<ns0:title>Animation-&gt;MoveAlongPath</ns0:title>
+<ns0:path fill="none" stroke="black" d="M52,-194.66C52,-183.11 52,-165.5 52,-165.5 52,-165.5 96.5,-165.5 96.5,-165.5" />
+<ns0:polygon fill="black" stroke="black" points="96.5,-167.25 101.5,-165.5 96.5,-163.75 96.5,-167.25" />
+</ns0:g>
+
+<ns0:g id="node48" class="node">
+<ns0:title>PhaseFlow</ns0:title>
+<ns0:g id="a_node48"><ns0:a ns1:href="../reference/manim.animation.movement.PhaseFlow.html#manim.animation.movement.PhaseFlow" ns1:title="PhaseFlow" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="174,-149 113,-149 113,-130 174,-130 174,-149" />
+<ns0:text text-anchor="middle" x="143.5" y="-137" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">PhaseFlow</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge39" class="edge">
+<ns0:title>Animation-&gt;PhaseFlow</ns0:title>
+<ns0:path fill="none" stroke="black" d="M45,-194.91C45,-176.83 45,-139.5 45,-139.5 45,-139.5 107.87,-139.5 107.87,-139.5" />
+<ns0:polygon fill="black" stroke="black" points="107.87,-141.25 112.87,-139.5 107.87,-137.75 107.87,-141.25" />
+</ns0:g>
+
+<ns0:g id="node53" class="node">
+<ns0:title>Rotating</ns0:title>
+<ns0:g id="a_node53"><ns0:a ns1:href="../reference/manim.animation.rotation.Rotating.html#manim.animation.rotation.Rotating" ns1:title="Rotating" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="168.5,-123 118.5,-123 118.5,-104 168.5,-104 168.5,-123" />
+<ns0:text text-anchor="middle" x="143.5" y="-111" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Rotating</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge44" class="edge">
+<ns0:title>Animation-&gt;Rotating</ns0:title>
+<ns0:path fill="none" stroke="black" d="M37,-194.76C37,-171.29 37,-113.5 37,-113.5 37,-113.5 113.26,-113.5 113.26,-113.5" />
+<ns0:polygon fill="black" stroke="black" points="113.26,-115.25 118.26,-113.5 113.26,-111.75 113.26,-115.25" />
+</ns0:g>
+
+<ns0:g id="node61" class="node">
+<ns0:title>SpiralIn</ns0:title>
+<ns0:g id="a_node61"><ns0:a ns1:href="../reference/manim.animation.creation.SpiralIn.html#manim.animation.creation.SpiralIn" ns1:title="Create the Mobject with sub-Mobjects flying in on spiral trajectories." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="166,-97 121,-97 121,-78 166,-78 166,-97" />
+<ns0:text text-anchor="middle" x="143.5" y="-85" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SpiralIn</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge54" class="edge">
+<ns0:title>Animation-&gt;SpiralIn</ns0:title>
+<ns0:path fill="none" stroke="black" d="M30,-194.93C30,-166.98 30,-87.5 30,-87.5 30,-87.5 115.8,-87.5 115.8,-87.5" />
+<ns0:polygon fill="black" stroke="black" points="115.8,-89.25 120.8,-87.5 115.8,-85.75 115.8,-89.25" />
+</ns0:g>
+
+<ns0:g id="node74" class="node">
+<ns0:title>UpdateFromFunc</ns0:title>
+<ns0:g id="a_node74"><ns0:a ns1:href="../reference/manim.animation.updaters.update.UpdateFromFunc.html#manim.animation.updaters.update.UpdateFromFunc" ns1:title="update_function of the form func(mobject), presumably" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="189,-71 98,-71 98,-52 189,-52 189,-71" />
+<ns0:text text-anchor="middle" x="143.5" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">UpdateFromFunc</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge67" class="edge">
+<ns0:title>Animation-&gt;UpdateFromFunc</ns0:title>
+<ns0:path fill="none" stroke="black" d="M23,-194.67C23,-162.36 23,-61.5 23,-61.5 23,-61.5 92.94,-61.5 92.94,-61.5" />
+<ns0:polygon fill="black" stroke="black" points="92.94,-63.25 97.94,-61.5 92.94,-59.75 92.94,-63.25" />
+</ns0:g>
+
+<ns0:g id="node75" class="node">
+<ns0:title>Wait</ns0:title>
+<ns0:g id="a_node75"><ns0:a ns1:href="../reference/manim.animation.animation.Wait.html#manim.animation.animation.Wait" ns1:title="A &quot;no operation&quot; animation." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="158.5,-45 128.5,-45 128.5,-26 158.5,-26 158.5,-45" />
+<ns0:text text-anchor="middle" x="143.5" y="-33" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Wait</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge70" class="edge">
+<ns0:title>Animation-&gt;Wait</ns0:title>
+<ns0:path fill="none" stroke="black" d="M15,-194.93C15,-159.18 15,-35.5 15,-35.5 15,-35.5 123.25,-35.5 123.25,-35.5" />
+<ns0:polygon fill="black" stroke="black" points="123.25,-37.25 128.25,-35.5 123.25,-33.75 123.25,-37.25" />
+</ns0:g>
+
+<ns0:g id="node76" class="node">
+<ns0:title>Wiggle</ns0:title>
+<ns0:g id="a_node76"><ns0:a ns1:href="../reference/manim.animation.indication.Wiggle.html#manim.animation.indication.Wiggle" ns1:title="Wiggle a Mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="164.5,-19 122.5,-19 122.5,0 164.5,0 164.5,-19" />
+<ns0:text text-anchor="middle" x="143.5" y="-7" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Wiggle</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge71" class="edge">
+<ns0:title>Animation-&gt;Wiggle</ns0:title>
+<ns0:path fill="none" stroke="black" d="M8,-194.83C8,-155.48 8,-9.5 8,-9.5 8,-9.5 117.33,-9.5 117.33,-9.5" />
+<ns0:polygon fill="black" stroke="black" points="117.33,-11.25 122.33,-9.5 117.33,-7.75 117.33,-11.25" />
+</ns0:g>
+
+<ns0:g id="edge55" class="edge">
+<ns0:title>AnimationGroup-&gt;Succession</ns0:title>
+<ns0:path fill="none" stroke="black" d="M144,-812.09C144,-830.17 144,-867.5 144,-867.5 144,-867.5 302.24,-867.5 302.24,-867.5" />
+<ns0:polygon fill="black" stroke="black" points="302.24,-869.25 307.24,-867.5 302.24,-865.75 302.24,-869.25" />
+</ns0:g>
+
+<ns0:g id="node19" class="node">
+<ns0:title>LaggedStart</ns0:title>
+<ns0:g id="a_node19"><ns0:a ns1:href="../reference/manim.animation.composition.LaggedStart.html#manim.animation.composition.LaggedStart" ns1:title="Adjusts the timing of a series of :class:`~.Animation` according to ``lag_ratio``." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="372.5,-851 305.5,-851 305.5,-832 372.5,-832 372.5,-851" />
+<ns0:text text-anchor="middle" x="339" y="-839" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">LaggedStart</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge34" class="edge">
+<ns0:title>AnimationGroup-&gt;LaggedStart</ns0:title>
+<ns0:path fill="none" stroke="black" d="M187.85,-803.67C238.37,-803.67 314,-803.67 314,-803.67 314,-803.67 314,-826.95 314,-826.95" />
+<ns0:polygon fill="black" stroke="black" points="312.25,-826.95 314,-831.95 315.75,-826.95 312.25,-826.95" />
+</ns0:g>
+
+<ns0:g id="node36" class="node">
+<ns0:title>Flash</ns0:title>
+<ns0:g id="a_node36"><ns0:a ns1:href="../reference/manim.animation.indication.Flash.html#manim.animation.indication.Flash" ns1:title="Send out lines in all directions." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="356.5,-825 321.5,-825 321.5,-806 356.5,-806 356.5,-825" />
+<ns0:text text-anchor="middle" x="339" y="-813" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Flash</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge26" class="edge">
+<ns0:title>AnimationGroup-&gt;Flash</ns0:title>
+<ns0:path fill="none" stroke="black" d="M187.86,-801.33C245.54,-801.33 339,-801.33 339,-801.33 339,-801.33 339,-801.78 339,-801.78" />
+<ns0:polygon fill="black" stroke="black" points="337.25,-800.82 339,-805.82 340.75,-800.82 337.25,-800.82" />
+</ns0:g>
+
+<ns0:g id="node56" class="node">
+<ns0:title>ShowPassingFlashWithThinningStrokeWidth</ns0:title>
+<ns0:g id="a_node56"><ns0:a ns1:href="../reference/manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth.html#manim.animation.indication.ShowPassingFlashWithThinningStrokeWidth" ns1:title="ShowPassingFlashWithThinningStrokeWidth" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="450,-799 228,-799 228,-780 450,-780 450,-799" />
+<ns0:text text-anchor="middle" x="339" y="-787" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ShowPassingFlashWithThinningStrokeWidth</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge49" class="edge">
+<ns0:title>AnimationGroup-&gt;ShowPassingFlashWithThinningStrokeWidth</ns0:title>
+<ns0:path fill="none" stroke="black" d="M183,-792.64C183,-789.35 183,-786.5 183,-786.5 183,-786.5 222.7,-786.5 222.7,-786.5" />
+<ns0:polygon fill="black" stroke="black" points="222.7,-788.25 227.7,-786.5 222.7,-784.75 222.7,-788.25" />
+</ns0:g>
+
+<ns0:g id="node67" class="node">
+<ns0:title>TransformMatchingAbstractBase</ns0:title>
+<ns0:g id="a_node67"><ns0:a ns1:href="../reference/manim.animation.transform_matching_parts.TransformMatchingAbstractBase.html#manim.animation.transform_matching_parts.TransformMatchingAbstractBase" ns1:title="Abstract base class for transformations that keep track of matching parts." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="422.5,-773 255.5,-773 255.5,-754 422.5,-754 422.5,-773" />
+<ns0:text text-anchor="middle" x="339" y="-761" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">TransformMatchingAbstractBase</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge61" class="edge">
+<ns0:title>AnimationGroup-&gt;TransformMatchingAbstractBase</ns0:title>
+<ns0:path fill="none" stroke="black" d="M179,-792.66C179,-781.11 179,-763.5 179,-763.5 179,-763.5 250.25,-763.5 250.25,-763.5" />
+<ns0:polygon fill="black" stroke="black" points="250.25,-765.25 255.25,-763.5 250.25,-761.75 250.25,-765.25" />
+</ns0:g>
+
+<ns0:g id="node9" class="node">
+<ns0:title>ApplyComplexFunction</ns0:title>
+<ns0:g id="a_node9"><ns0:a ns1:href="../reference/manim.animation.transform.ApplyComplexFunction.html#manim.animation.transform.ApplyComplexFunction" ns1:title="ApplyComplexFunction" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="594,-747 473,-747 473,-728 594,-728 594,-747" />
+<ns0:text text-anchor="middle" x="533.5" y="-735" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyComplexFunction</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node10" class="node">
+<ns0:title>ApplyMethod</ns0:title>
+<ns0:g id="a_node10"><ns0:a ns1:href="../reference/manim.animation.transform.ApplyMethod.html#manim.animation.transform.ApplyMethod" ns1:title="Animates a mobject by applying a method." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="375.5,-721 302.5,-721 302.5,-702 375.5,-702 375.5,-721" />
+<ns0:text text-anchor="middle" x="339" y="-709" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyMethod</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>ApplyMethod-&gt;ApplyComplexFunction</ns0:title>
+<ns0:path fill="none" stroke="black" d="M339,-721.18C339,-728.57 339,-737.5 339,-737.5 339,-737.5 467.76,-737.5 467.76,-737.5" />
+<ns0:polygon fill="black" stroke="black" points="467.76,-739.25 472.76,-737.5 467.76,-735.75 467.76,-739.25" />
+</ns0:g>
+
+<ns0:g id="node14" class="node">
+<ns0:title>ApplyPointwiseFunction</ns0:title>
+<ns0:g id="a_node14"><ns0:a ns1:href="../reference/manim.animation.transform.ApplyPointwiseFunction.html#manim.animation.transform.ApplyPointwiseFunction" ns1:title="Animation that applies a pointwise function to a mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="596,-721 471,-721 471,-702 596,-702 596,-721" />
+<ns0:text text-anchor="middle" x="533.5" y="-709" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyPointwiseFunction</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge9" class="edge">
+<ns0:title>ApplyMethod-&gt;ApplyPointwiseFunction</ns0:title>
+<ns0:path fill="none" stroke="black" d="M375.58,-717.2C375.58,-717.2 465.68,-717.2 465.68,-717.2" />
+<ns0:polygon fill="black" stroke="black" points="465.68,-718.95 470.68,-717.2 465.68,-715.45 465.68,-718.95" />
+</ns0:g>
+
+<ns0:g id="node33" class="node">
+<ns0:title>FadeToColor</ns0:title>
+<ns0:g id="a_node33"><ns0:a ns1:href="../reference/manim.animation.transform.FadeToColor.html#manim.animation.transform.FadeToColor" ns1:title="Animation that changes color of a mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="567,-695 500,-695 500,-676 567,-676 567,-695" />
+<ns0:text text-anchor="middle" x="533.5" y="-683" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">FadeToColor</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge23" class="edge">
+<ns0:title>ApplyMethod-&gt;FadeToColor</ns0:title>
+<ns0:path fill="none" stroke="black" d="M375.57,-705.8C381.64,-705.8 386,-705.8 386,-705.8 386,-705.8 386,-685.5 386,-685.5 386,-685.5 494.66,-685.5 494.66,-685.5" />
+<ns0:polygon fill="black" stroke="black" points="494.66,-687.25 499.66,-685.5 494.66,-683.75 494.66,-687.25" />
+</ns0:g>
+
+<ns0:g id="node51" class="node">
+<ns0:title>Restore</ns0:title>
+<ns0:g id="a_node51"><ns0:a ns1:href="../reference/manim.animation.transform.Restore.html#manim.animation.transform.Restore" ns1:title="Transforms a mobject to its last saved state." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="556.5,-669 510.5,-669 510.5,-650 556.5,-650 556.5,-669" />
+<ns0:text text-anchor="middle" x="533.5" y="-657" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Restore</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge42" class="edge">
+<ns0:title>ApplyMethod-&gt;Restore</ns0:title>
+<ns0:path fill="none" stroke="black" d="M375.65,-709.6C389.51,-709.6 402,-709.6 402,-709.6 402,-709.6 402,-659.5 402,-659.5 402,-659.5 505.29,-659.5 505.29,-659.5" />
+<ns0:polygon fill="black" stroke="black" points="505.29,-661.25 510.29,-659.5 505.29,-657.75 505.29,-661.25" />
+</ns0:g>
+
+<ns0:g id="node54" class="node">
+<ns0:title>ScaleInPlace</ns0:title>
+<ns0:g id="a_node54"><ns0:a ns1:href="../reference/manim.animation.transform.ScaleInPlace.html#manim.animation.transform.ScaleInPlace" ns1:title="Animation that scales a mobject by a certain factor." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="568.5,-643 498.5,-643 498.5,-624 568.5,-624 568.5,-643" />
+<ns0:text text-anchor="middle" x="533.5" y="-631" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ScaleInPlace</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge45" class="edge">
+<ns0:title>ApplyMethod-&gt;ScaleInPlace</ns0:title>
+<ns0:path fill="none" stroke="black" d="M375.66,-713.4C395.1,-713.4 415,-713.4 415,-713.4 415,-713.4 415,-633.5 415,-633.5 415,-633.5 493.27,-633.5 493.27,-633.5" />
+<ns0:polygon fill="black" stroke="black" points="493.27,-635.25 498.27,-633.5 493.27,-631.75 493.27,-635.25" />
+</ns0:g>
+
+<ns0:g id="node11" class="node">
+<ns0:title>ApplyFunction</ns0:title>
+<ns0:g id="a_node11"><ns0:a ns1:href="../reference/manim.animation.transform.ApplyFunction.html#manim.animation.transform.ApplyFunction" ns1:title="ApplyFunction" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="378,-695 300,-695 300,-676 378,-676 378,-695" />
+<ns0:text text-anchor="middle" x="339" y="-683" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyFunction</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge8" class="edge">
+<ns0:title>Transform-&gt;ApplyMethod</ns0:title>
+<ns0:path fill="none" stroke="black" d="M124,-539.29C124,-577.09 124,-711.5 124,-711.5 124,-711.5 297.04,-711.5 297.04,-711.5" />
+<ns0:polygon fill="black" stroke="black" points="297.04,-713.25 302.04,-711.5 297.04,-709.75 297.04,-713.25" />
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>Transform-&gt;ApplyFunction</ns0:title>
+<ns0:path fill="none" stroke="black" d="M132,-539.26C132,-573.41 132,-685.5 132,-685.5 132,-685.5 294.58,-685.5 294.58,-685.5" />
+<ns0:polygon fill="black" stroke="black" points="294.58,-687.25 299.58,-685.5 294.58,-683.75 294.58,-687.25" />
+</ns0:g>
+
+<ns0:g id="node24" class="node">
+<ns0:title>ClockwiseTransform</ns0:title>
+<ns0:g id="a_node24"><ns0:a ns1:href="../reference/manim.animation.transform.ClockwiseTransform.html#manim.animation.transform.ClockwiseTransform" ns1:title="Transforms the points of a mobject along a clockwise oriented arc." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="392.5,-669 285.5,-669 285.5,-650 392.5,-650 392.5,-669" />
+<ns0:text text-anchor="middle" x="339" y="-657" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ClockwiseTransform</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge17" class="edge">
+<ns0:title>Transform-&gt;ClockwiseTransform</ns0:title>
+<ns0:path fill="none" stroke="black" d="M140,-539.27C140,-569.5 140,-659.5 140,-659.5 140,-659.5 280.41,-659.5 280.41,-659.5" />
+<ns0:polygon fill="black" stroke="black" points="280.41,-661.25 285.41,-659.5 280.41,-657.75 280.41,-661.25" />
+</ns0:g>
+
+<ns0:g id="node26" class="node">
+<ns0:title>CounterclockwiseTransform</ns0:title>
+<ns0:g id="a_node26"><ns0:a ns1:href="../reference/manim.animation.transform.CounterclockwiseTransform.html#manim.animation.transform.CounterclockwiseTransform" ns1:title="Transforms the points of a mobject along a counterclockwise oriented arc." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="411,-643 267,-643 267,-624 411,-624 411,-643" />
+<ns0:text text-anchor="middle" x="339" y="-631" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">CounterclockwiseTransform</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge19" class="edge">
+<ns0:title>Transform-&gt;CounterclockwiseTransform</ns0:title>
+<ns0:path fill="none" stroke="black" d="M172.24,-534.25C210.39,-534.25 273,-534.25 273,-534.25 273,-534.25 273,-618.98 273,-618.98" />
+<ns0:polygon fill="black" stroke="black" points="271.25,-618.98 273,-623.98 274.75,-618.98 271.25,-618.98" />
+</ns0:g>
+
+<ns0:g id="node29" class="node">
+<ns0:title>CyclicReplace</ns0:title>
+<ns0:g id="a_node29"><ns0:a ns1:href="../reference/manim.animation.transform.CyclicReplace.html#manim.animation.transform.CyclicReplace" ns1:title="An animation moving mobjects cyclically." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="377.5,-617 300.5,-617 300.5,-598 377.5,-598 377.5,-617" />
+<ns0:text text-anchor="middle" x="339" y="-605" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">CyclicReplace</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge21" class="edge">
+<ns0:title>Transform-&gt;CyclicReplace</ns0:title>
+<ns0:path fill="none" stroke="black" d="M148,-539.06C148,-559.89 148,-607.5 148,-607.5 148,-607.5 295.35,-607.5 295.35,-607.5" />
+<ns0:polygon fill="black" stroke="black" points="295.35,-609.25 300.35,-607.5 295.35,-605.75 295.35,-609.25" />
+</ns0:g>
+
+<ns0:g id="node34" class="node">
+<ns0:title>FadeTransform</ns0:title>
+<ns0:g id="a_node34"><ns0:a ns1:href="../reference/manim.animation.transform.FadeTransform.html#manim.animation.transform.FadeTransform" ns1:title="Fades one mobject into another." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="379,-591 299,-591 299,-572 379,-572 379,-591" />
+<ns0:text text-anchor="middle" x="339" y="-579" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">FadeTransform</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge24" class="edge">
+<ns0:title>Transform-&gt;FadeTransform</ns0:title>
+<ns0:path fill="none" stroke="black" d="M156,-539.04C156,-554.05 156,-581.5 156,-581.5 156,-581.5 293.84,-581.5 293.84,-581.5" />
+<ns0:polygon fill="black" stroke="black" points="293.84,-583.25 298.84,-581.5 293.84,-579.75 293.84,-583.25" />
+</ns0:g>
+
+<ns0:g id="node37" class="node">
+<ns0:title>FocusOn</ns0:title>
+<ns0:g id="a_node37"><ns0:a ns1:href="../reference/manim.animation.indication.FocusOn.html#manim.animation.indication.FocusOn" ns1:title="Shrink a spotlight to a position." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="364,-565 314,-565 314,-546 364,-546 364,-565" />
+<ns0:text text-anchor="middle" x="339" y="-553" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">FocusOn</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge27" class="edge">
+<ns0:title>Transform-&gt;FocusOn</ns0:title>
+<ns0:path fill="none" stroke="black" d="M164,-539.18C164,-546.57 164,-555.5 164,-555.5 164,-555.5 308.93,-555.5 308.93,-555.5" />
+<ns0:polygon fill="black" stroke="black" points="308.93,-557.25 313.93,-555.5 308.93,-553.75 308.93,-557.25" />
+</ns0:g>
+
+<ns0:g id="node39" class="node">
+<ns0:title>GrowFromPoint</ns0:title>
+<ns0:g id="a_node39"><ns0:a ns1:href="../reference/manim.animation.growing.GrowFromPoint.html#manim.animation.growing.GrowFromPoint" ns1:title="Introduce an :class:`~.Mobject` by growing it from a point." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="381,-539 297,-539 297,-520 381,-520 381,-539" />
+<ns0:text text-anchor="middle" x="339" y="-527" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">GrowFromPoint</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge31" class="edge">
+<ns0:title>Transform-&gt;GrowFromPoint</ns0:title>
+<ns0:path fill="none" stroke="black" d="M172.35,-529.5C172.35,-529.5 291.66,-529.5 291.66,-529.5" />
+<ns0:polygon fill="black" stroke="black" points="291.66,-531.25 296.66,-529.5 291.66,-527.75 291.66,-531.25" />
+</ns0:g>
+
+<ns0:g id="node42" class="node">
+<ns0:title>Indicate</ns0:title>
+<ns0:g id="a_node42"><ns0:a ns1:href="../reference/manim.animation.indication.Indicate.html#manim.animation.indication.Indicate" ns1:title="Indicate a Mobject by temporarily resizing and recoloring it." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="363,-513 315,-513 315,-494 363,-494 363,-513" />
+<ns0:text text-anchor="middle" x="339" y="-501" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Indicate</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge33" class="edge">
+<ns0:title>Transform-&gt;Indicate</ns0:title>
+<ns0:path fill="none" stroke="black" d="M164,-519.82C164,-512.43 164,-503.5 164,-503.5 164,-503.5 309.67,-503.5 309.67,-503.5" />
+<ns0:polygon fill="black" stroke="black" points="309.67,-505.25 314.67,-503.5 309.67,-501.75 309.67,-505.25" />
+</ns0:g>
+
+<ns0:g id="node47" class="node">
+<ns0:title>MoveToTarget</ns0:title>
+<ns0:g id="a_node47"><ns0:a ns1:href="../reference/manim.animation.transform.MoveToTarget.html#manim.animation.transform.MoveToTarget" ns1:title="Transforms a mobject to the mobject stored in its ``target`` attribute." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="377,-487 301,-487 301,-468 377,-468 377,-487" />
+<ns0:text text-anchor="middle" x="339" y="-475" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MoveToTarget</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge38" class="edge">
+<ns0:title>Transform-&gt;MoveToTarget</ns0:title>
+<ns0:path fill="none" stroke="black" d="M148,-519.96C148,-504.95 148,-477.5 148,-477.5 148,-477.5 295.81,-477.5 295.81,-477.5" />
+<ns0:polygon fill="black" stroke="black" points="295.81,-479.25 300.81,-477.5 295.81,-475.75 295.81,-479.25" />
+</ns0:g>
+
+<ns0:g id="node50" class="node">
+<ns0:title>ReplacementTransform</ns0:title>
+<ns0:g id="a_node50"><ns0:a ns1:href="../reference/manim.animation.transform.ReplacementTransform.html#manim.animation.transform.ReplacementTransform" ns1:title="Replaces and morphs a mobject into a target mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="400,-461 278,-461 278,-442 400,-442 400,-461" />
+<ns0:text text-anchor="middle" x="339" y="-449" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ReplacementTransform</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge41" class="edge">
+<ns0:title>Transform-&gt;ReplacementTransform</ns0:title>
+<ns0:path fill="none" stroke="black" d="M172.05,-524.75C214.16,-524.75 288,-524.75 288,-524.75 288,-524.75 288,-466.08 288,-466.08" />
+<ns0:polygon fill="black" stroke="black" points="289.75,-466.08 288,-461.08 286.25,-466.08 289.75,-466.08" />
+</ns0:g>
+
+<ns0:g id="node52" class="node">
+<ns0:title>Rotate</ns0:title>
+<ns0:g id="a_node52"><ns0:a ns1:href="../reference/manim.animation.rotation.Rotate.html#manim.animation.rotation.Rotate" ns1:title="Animation that rotates a Mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="359.5,-435 318.5,-435 318.5,-416 359.5,-416 359.5,-435" />
+<ns0:text text-anchor="middle" x="339" y="-423" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Rotate</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge43" class="edge">
+<ns0:title>Transform-&gt;Rotate</ns0:title>
+<ns0:path fill="none" stroke="black" d="M140,-519.9C140,-494.16 140,-425.5 140,-425.5 140,-425.5 313.45,-425.5 313.45,-425.5" />
+<ns0:polygon fill="black" stroke="black" points="313.45,-427.25 318.45,-425.5 313.45,-423.75 313.45,-427.25" />
+</ns0:g>
+
+<ns0:g id="node65" class="node">
+<ns0:title>TransformAnimations</ns0:title>
+<ns0:g id="a_node65"><ns0:a ns1:href="../reference/manim.animation.transform.TransformAnimations.html#manim.animation.transform.TransformAnimations" ns1:title="TransformAnimations" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="395.5,-409 282.5,-409 282.5,-390 395.5,-390 395.5,-409" />
+<ns0:text text-anchor="middle" x="339" y="-397" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">TransformAnimations</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge59" class="edge">
+<ns0:title>Transform-&gt;TransformAnimations</ns0:title>
+<ns0:path fill="none" stroke="black" d="M132,-519.73C132,-489.5 132,-399.5 132,-399.5 132,-399.5 277.44,-399.5 277.44,-399.5" />
+<ns0:polygon fill="black" stroke="black" points="277.44,-401.25 282.44,-399.5 277.44,-397.75 277.44,-401.25" />
+</ns0:g>
+
+<ns0:g id="node66" class="node">
+<ns0:title>TransformFromCopy</ns0:title>
+<ns0:g id="a_node66"><ns0:a ns1:href="../reference/manim.animation.transform.TransformFromCopy.html#manim.animation.transform.TransformFromCopy" ns1:title="Performs a reversed Transform" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="392.5,-383 285.5,-383 285.5,-364 392.5,-364 392.5,-383" />
+<ns0:text text-anchor="middle" x="339" y="-371" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">TransformFromCopy</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge60" class="edge">
+<ns0:title>Transform-&gt;TransformFromCopy</ns0:title>
+<ns0:path fill="none" stroke="black" d="M124,-519.74C124,-485.59 124,-373.5 124,-373.5 124,-373.5 280.3,-373.5 280.3,-373.5" />
+<ns0:polygon fill="black" stroke="black" points="280.3,-375.25 285.3,-373.5 280.3,-371.75 280.3,-375.25" />
+</ns0:g>
+
+<ns0:g id="node13" class="node">
+<ns0:title>ApplyMatrix</ns0:title>
+<ns0:g id="a_node13"><ns0:a ns1:href="../reference/manim.animation.transform.ApplyMatrix.html#manim.animation.transform.ApplyMatrix" ns1:title="Applies a matrix transform to an mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="735,-734 667,-734 667,-715 735,-715 735,-734" />
+<ns0:text text-anchor="middle" x="701" y="-722" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyMatrix</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge7" class="edge">
+<ns0:title>ApplyPointwiseFunction-&gt;ApplyMatrix</ns0:title>
+<ns0:path fill="none" stroke="black" d="M596.24,-711.5C644.15,-711.5 702,-711.5 702,-711.5 702,-711.5 702,-711.83 702,-711.83" />
+<ns0:polygon fill="black" stroke="black" points="700.25,-709.78 702,-714.78 703.75,-709.78 700.25,-709.78" />
+</ns0:g>
+
+<ns0:g id="node15" class="node">
+<ns0:title>ApplyPointwiseFunctionToCenter</ns0:title>
+<ns0:g id="a_node15"><ns0:a ns1:href="../reference/manim.animation.transform.ApplyPointwiseFunctionToCenter.html#manim.animation.transform.ApplyPointwiseFunctionToCenter" ns1:title="ApplyPointwiseFunctionToCenter" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="785,-708 617,-708 617,-689 785,-689 785,-708" />
+<ns0:text text-anchor="middle" x="701" y="-696" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyPointwiseFunctionToCenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge10" class="edge">
+<ns0:title>ApplyPointwiseFunction-&gt;ApplyPointwiseFunctionToCenter</ns0:title>
+<ns0:path fill="none" stroke="black" d="M593,-701.78C593,-699.9 593,-698.5 593,-698.5 593,-698.5 611.97,-698.5 611.97,-698.5" />
+<ns0:polygon fill="black" stroke="black" points="611.97,-700.25 616.97,-698.5 611.97,-696.75 611.97,-700.25" />
+</ns0:g>
+
+<ns0:g id="node16" class="node">
+<ns0:title>ApplyWave</ns0:title>
+<ns0:g id="a_node16"><ns0:a ns1:href="../reference/manim.animation.indication.ApplyWave.html#manim.animation.indication.ApplyWave" ns1:title="Send a wave through the Mobject distorting it temporarily." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="370.5,-357 307.5,-357 307.5,-338 370.5,-338 370.5,-357" />
+<ns0:text text-anchor="middle" x="339" y="-345" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ApplyWave</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge11" class="edge">
+<ns0:title>Homotopy-&gt;ApplyWave</ns0:title>
+<ns0:path fill="none" stroke="black" d="M156,-331.18C156,-338.57 156,-347.5 156,-347.5 156,-347.5 302.12,-347.5 302.12,-347.5" />
+<ns0:polygon fill="black" stroke="black" points="302.12,-349.25 307.12,-347.5 302.12,-345.75 302.12,-349.25" />
+</ns0:g>
+
+<ns0:g id="node25" class="node">
+<ns0:title>ComplexHomotopy</ns0:title>
+<ns0:g id="a_node25"><ns0:a ns1:href="../reference/manim.animation.movement.ComplexHomotopy.html#manim.animation.movement.ComplexHomotopy" ns1:title="ComplexHomotopy" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="390.5,-331 287.5,-331 287.5,-312 390.5,-312 390.5,-331" />
+<ns0:text text-anchor="middle" x="339" y="-319" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ComplexHomotopy</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge18" class="edge">
+<ns0:title>Homotopy-&gt;ComplexHomotopy</ns0:title>
+<ns0:path fill="none" stroke="black" d="M173.62,-324.67C173.62,-324.67 282.15,-324.67 282.15,-324.67" />
+<ns0:polygon fill="black" stroke="black" points="282.15,-326.42 287.15,-324.67 282.15,-322.92 282.15,-326.42" />
+</ns0:g>
+
+<ns0:g id="node59" class="node">
+<ns0:title>SmoothedVectorizedHomotopy</ns0:title>
+<ns0:g id="a_node59"><ns0:a ns1:href="../reference/manim.animation.movement.SmoothedVectorizedHomotopy.html#manim.animation.movement.SmoothedVectorizedHomotopy" ns1:title="SmoothedVectorizedHomotopy" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="419,-305 259,-305 259,-286 419,-286 419,-305" />
+<ns0:text text-anchor="middle" x="339" y="-293" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SmoothedVectorizedHomotopy</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge52" class="edge">
+<ns0:title>Homotopy-&gt;SmoothedVectorizedHomotopy</ns0:title>
+<ns0:path fill="none" stroke="black" d="M173.65,-318.33C209.06,-318.33 263,-318.33 263,-318.33 263,-318.33 263,-310.05 263,-310.05" />
+<ns0:polygon fill="black" stroke="black" points="264.75,-310.05 263,-305.05 261.25,-310.05 264.75,-310.05" />
+</ns0:g>
+
+<ns0:g id="node18" class="node">
+<ns0:title>Broadcast</ns0:title>
+<ns0:g id="a_node18"><ns0:a ns1:href="../reference/manim.animation.specialized.Broadcast.html#manim.animation.specialized.Broadcast" ns1:title="Broadcast a mobject starting from an ``initial_width``, up to the actual size of the mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="562,-851 505,-851 505,-832 562,-832 562,-851" />
+<ns0:text text-anchor="middle" x="533.5" y="-839" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Broadcast</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge12" class="edge">
+<ns0:title>LaggedStart-&gt;Broadcast</ns0:title>
+<ns0:path fill="none" stroke="black" d="M372.88,-844.67C372.88,-844.67 499.76,-844.67 499.76,-844.67" />
+<ns0:polygon fill="black" stroke="black" points="499.76,-846.42 504.76,-844.67 499.76,-842.92 499.76,-846.42" />
+</ns0:g>
+
+<ns0:g id="node43" class="node">
+<ns0:title>LaggedStartMap</ns0:title>
+<ns0:g id="a_node43"><ns0:a ns1:href="../reference/manim.animation.composition.LaggedStartMap.html#manim.animation.composition.LaggedStartMap" ns1:title="Plays a series of :class:`~.Animation` while mapping a function to submobjects." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="577.5,-825 489.5,-825 489.5,-806 577.5,-806 577.5,-825" />
+<ns0:text text-anchor="middle" x="533.5" y="-813" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">LaggedStartMap</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge35" class="edge">
+<ns0:title>LaggedStart-&gt;LaggedStartMap</ns0:title>
+<ns0:path fill="none" stroke="black" d="M372.63,-838.33C418.22,-838.33 494,-838.33 494,-838.33 494,-838.33 494,-830.05 494,-830.05" />
+<ns0:polygon fill="black" stroke="black" points="495.75,-830.05 494,-825.05 492.25,-830.05 495.75,-830.05" />
+</ns0:g>
+
+<ns0:g id="node20" class="node">
+<ns0:title>ChangeDecimalToValue</ns0:title>
+<ns0:g id="a_node20"><ns0:a ns1:href="../reference/manim.animation.numbers.ChangeDecimalToValue.html#manim.animation.numbers.ChangeDecimalToValue" ns1:title="ChangeDecimalToValue" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="400.5,-279 277.5,-279 277.5,-260 400.5,-260 400.5,-279" />
+<ns0:text text-anchor="middle" x="339" y="-267" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ChangeDecimalToValue</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge13" class="edge">
+<ns0:title>ChangingDecimal-&gt;ChangeDecimalToValue</ns0:title>
+<ns0:path fill="none" stroke="black" d="M186,-285.82C186,-278.43 186,-269.5 186,-269.5 186,-269.5 272.21,-269.5 272.21,-269.5" />
+<ns0:polygon fill="black" stroke="black" points="272.21,-271.25 277.21,-269.5 272.21,-267.75 272.21,-271.25" />
+</ns0:g>
+
+<ns0:g id="node27" class="node">
+<ns0:title>Create</ns0:title>
+<ns0:g id="a_node27"><ns0:a ns1:href="../reference/manim.animation.creation.Create.html#manim.animation.creation.Create" ns1:title="Incrementally show a VMobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="359.5,-253 318.5,-253 318.5,-234 359.5,-234 359.5,-253" />
+<ns0:text text-anchor="middle" x="339" y="-241" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Create</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node70" class="node">
+<ns0:title>Uncreate</ns0:title>
+<ns0:g id="a_node70"><ns0:a ns1:href="../reference/manim.animation.creation.Uncreate.html#manim.animation.creation.Uncreate" ns1:title="Like :class:`Create` but in reverse." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="560,-253 507,-253 507,-234 560,-234 560,-253" />
+<ns0:text text-anchor="middle" x="533.5" y="-241" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Uncreate</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge64" class="edge">
+<ns0:title>Create-&gt;Uncreate</ns0:title>
+<ns0:path fill="none" stroke="black" d="M359.81,-243.5C359.81,-243.5 501.97,-243.5 501.97,-243.5" />
+<ns0:polygon fill="black" stroke="black" points="501.97,-245.25 506.97,-243.5 501.97,-241.75 501.97,-245.25" />
+</ns0:g>
+
+<ns0:g id="edge20" class="edge">
+<ns0:title>ShowPartial-&gt;Create</ns0:title>
+<ns0:path fill="none" stroke="black" d="M176.66,-246.67C176.66,-246.67 313.32,-246.67 313.32,-246.67" />
+<ns0:polygon fill="black" stroke="black" points="313.32,-248.42 318.32,-246.67 313.32,-244.92 313.32,-248.42" />
+</ns0:g>
+
+<ns0:g id="node55" class="node">
+<ns0:title>ShowPassingFlash</ns0:title>
+<ns0:g id="a_node55"><ns0:a ns1:href="../reference/manim.animation.indication.ShowPassingFlash.html#manim.animation.indication.ShowPassingFlash" ns1:title="Show only a sliver of the VMobject each frame." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="388,-227 290,-227 290,-208 388,-208 388,-227" />
+<ns0:text text-anchor="middle" x="339" y="-215" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ShowPassingFlash</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge48" class="edge">
+<ns0:title>ShowPartial-&gt;ShowPassingFlash</ns0:title>
+<ns0:path fill="none" stroke="black" d="M176.57,-240.33C223.82,-240.33 305,-240.33 305,-240.33 305,-240.33 305,-232.05 305,-232.05" />
+<ns0:polygon fill="black" stroke="black" points="306.75,-232.05 305,-227.05 303.25,-232.05 306.75,-232.05" />
+</ns0:g>
+
+<ns0:g id="node62" class="node">
+<ns0:title>Swap</ns0:title>
+<ns0:g id="a_node62"><ns0:a ns1:href="../reference/manim.animation.transform.Swap.html#manim.animation.transform.Swap" ns1:title="Swap" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="551,-617 516,-617 516,-598 551,-598 551,-617" />
+<ns0:text text-anchor="middle" x="533.5" y="-605" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Swap</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge56" class="edge">
+<ns0:title>CyclicReplace-&gt;Swap</ns0:title>
+<ns0:path fill="none" stroke="black" d="M377.89,-607.5C377.89,-607.5 510.71,-607.5 510.71,-607.5" />
+<ns0:polygon fill="black" stroke="black" points="510.71,-609.25 515.71,-607.5 510.71,-605.75 510.71,-609.25" />
+</ns0:g>
+
+<ns0:g id="node72" class="node">
+<ns0:title>Write</ns0:title>
+<ns0:g id="a_node72"><ns0:a ns1:href="../reference/manim.animation.creation.Write.html#manim.animation.creation.Write" ns1:title="Simulate hand-writing a :class:`~.Text` or hand-drawing a :class:`~.VMobject`." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="356.5,-201 321.5,-201 321.5,-182 356.5,-182 356.5,-201" />
+<ns0:text text-anchor="middle" x="339" y="-189" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Write</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge72" class="edge">
+<ns0:title>DrawBorderThenFill-&gt;Write</ns0:title>
+<ns0:path fill="none" stroke="black" d="M196.05,-217.5C209.87,-217.5 221,-217.5 221,-217.5 221,-217.5 221,-191.5 221,-191.5 221,-191.5 316.33,-191.5 316.33,-191.5" />
+<ns0:polygon fill="black" stroke="black" points="316.33,-193.25 321.33,-191.5 316.33,-189.75 316.33,-193.25" />
+</ns0:g>
+
+<ns0:g id="node31" class="node">
+<ns0:title>FadeIn</ns0:title>
+<ns0:g id="a_node31"><ns0:a ns1:href="../reference/manim.animation.fading.FadeIn.html#manim.animation.fading.FadeIn" ns1:title="Fade in :class:`~.Mobject` s." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="49.5,-994 9.5,-994 9.5,-975 49.5,-975 49.5,-994" />
+<ns0:text text-anchor="middle" x="29.5" y="-982" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">FadeIn</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node32" class="node">
+<ns0:title>FadeOut</ns0:title>
+<ns0:g id="a_node32"><ns0:a ns1:href="../reference/manim.animation.fading.FadeOut.html#manim.animation.fading.FadeOut" ns1:title="Fade out :class:`~.Mobject` s." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="53.5,-1020 5.5,-1020 5.5,-1001 53.5,-1001 53.5,-1020" />
+<ns0:text text-anchor="middle" x="29.5" y="-1008" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">FadeOut</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node35" class="node">
+<ns0:title>FadeTransformPieces</ns0:title>
+<ns0:g id="a_node35"><ns0:a ns1:href="../reference/manim.animation.transform.FadeTransformPieces.html#manim.animation.transform.FadeTransformPieces" ns1:title="Fades submobjects of one mobject into submobjects of another one." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="589,-591 478,-591 478,-572 589,-572 589,-591" />
+<ns0:text text-anchor="middle" x="533.5" y="-579" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">FadeTransformPieces</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge25" class="edge">
+<ns0:title>FadeTransform-&gt;FadeTransformPieces</ns0:title>
+<ns0:path fill="none" stroke="black" d="M379.3,-581.5C379.3,-581.5 472.76,-581.5 472.76,-581.5" />
+<ns0:polygon fill="black" stroke="black" points="472.76,-583.25 477.76,-581.5 472.76,-579.75 472.76,-583.25" />
+</ns0:g>
+
+<ns0:g id="node38" class="node">
+<ns0:title>GrowArrow</ns0:title>
+<ns0:g id="a_node38"><ns0:a ns1:href="../reference/manim.animation.growing.GrowArrow.html#manim.animation.growing.GrowArrow" ns1:title="Introduce an :class:`~.Arrow` by growing it from its start toward its tip." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="565,-565 502,-565 502,-546 565,-546 565,-565" />
+<ns0:text text-anchor="middle" x="533.5" y="-553" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">GrowArrow</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge28" class="edge">
+<ns0:title>GrowFromPoint-&gt;GrowArrow</ns0:title>
+<ns0:path fill="none" stroke="black" d="M372,-539.18C372,-546.57 372,-555.5 372,-555.5 372,-555.5 496.98,-555.5 496.98,-555.5" />
+<ns0:polygon fill="black" stroke="black" points="496.98,-557.25 501.98,-555.5 496.98,-553.75 496.98,-557.25" />
+</ns0:g>
+
+<ns0:g id="node40" class="node">
+<ns0:title>GrowFromCenter</ns0:title>
+<ns0:g id="a_node40"><ns0:a ns1:href="../reference/manim.animation.growing.GrowFromCenter.html#manim.animation.growing.GrowFromCenter" ns1:title="Introduce an :class:`~.Mobject` by growing it from its center." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="579,-539 488,-539 488,-520 579,-520 579,-539" />
+<ns0:text text-anchor="middle" x="533.5" y="-527" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">GrowFromCenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge29" class="edge">
+<ns0:title>GrowFromPoint-&gt;GrowFromCenter</ns0:title>
+<ns0:path fill="none" stroke="black" d="M381.2,-529.5C381.2,-529.5 482.99,-529.5 482.99,-529.5" />
+<ns0:polygon fill="black" stroke="black" points="482.99,-531.25 487.99,-529.5 482.99,-527.75 482.99,-531.25" />
+</ns0:g>
+
+<ns0:g id="node41" class="node">
+<ns0:title>GrowFromEdge</ns0:title>
+<ns0:g id="a_node41"><ns0:a ns1:href="../reference/manim.animation.growing.GrowFromEdge.html#manim.animation.growing.GrowFromEdge" ns1:title="Introduce an :class:`~.Mobject` by growing it from one of its bounding box edges." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="575,-513 492,-513 492,-494 575,-494 575,-513" />
+<ns0:text text-anchor="middle" x="533.5" y="-501" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">GrowFromEdge</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge30" class="edge">
+<ns0:title>GrowFromPoint-&gt;GrowFromEdge</ns0:title>
+<ns0:path fill="none" stroke="black" d="M370,-519.82C370,-512.43 370,-503.5 370,-503.5 370,-503.5 486.82,-503.5 486.82,-503.5" />
+<ns0:polygon fill="black" stroke="black" points="486.82,-505.25 491.82,-503.5 486.82,-501.75 486.82,-505.25" />
+</ns0:g>
+
+<ns0:g id="node60" class="node">
+<ns0:title>SpinInFromNothing</ns0:title>
+<ns0:g id="a_node60"><ns0:a ns1:href="../reference/manim.animation.growing.SpinInFromNothing.html#manim.animation.growing.SpinInFromNothing" ns1:title="Introduce an :class:`~.Mobject` spinning and growing it from its center." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="752,-539 650,-539 650,-520 752,-520 752,-539" />
+<ns0:text text-anchor="middle" x="701" y="-527" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SpinInFromNothing</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge53" class="edge">
+<ns0:title>GrowFromCenter-&gt;SpinInFromNothing</ns0:title>
+<ns0:path fill="none" stroke="black" d="M579.27,-529.5C579.27,-529.5 644.98,-529.5 644.98,-529.5" />
+<ns0:polygon fill="black" stroke="black" points="644.98,-531.25 649.98,-529.5 644.98,-527.75 644.98,-531.25" />
+</ns0:g>
+
+<ns0:g id="node45" class="node">
+<ns0:title>Mobject</ns0:title>
+<ns0:g id="a_node45"><ns0:a ns1:href="../reference/manim.mobject.mobject.Mobject.html#manim.mobject.mobject.Mobject" ns1:title="Mathematical Object: base class for objects that can be displayed on screen." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="53.5,-968 5.5,-968 5.5,-949 53.5,-949 53.5,-968" />
+<ns0:text text-anchor="middle" x="29.5" y="-956" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Mobject</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node64" class="node">
+<ns0:title>VMobject</ns0:title>
+<ns0:g id="a_node64"><ns0:a ns1:href="../reference/manim.mobject.types.vectorized_mobject.VMobject.html#manim.mobject.types.vectorized_mobject.VMobject" ns1:title="A vectorized mobject." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="170.5,-968 116.5,-968 116.5,-949 170.5,-949 170.5,-968" />
+<ns0:text text-anchor="middle" x="143.5" y="-956" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">VMobject</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge69" class="edge">
+<ns0:title>Mobject-&gt;VMobject</ns0:title>
+<ns0:path fill="none" stroke="black" d="M53.68,-958.5C53.68,-958.5 111.16,-958.5 111.16,-958.5" />
+<ns0:polygon fill="black" stroke="black" points="111.16,-960.25 116.16,-958.5 111.16,-956.75 111.16,-960.25" />
+</ns0:g>
+
+<ns0:g id="node58" class="node">
+<ns0:title>ShrinkToCenter</ns0:title>
+<ns0:g id="a_node58"><ns0:a ns1:href="../reference/manim.animation.transform.ShrinkToCenter.html#manim.animation.transform.ShrinkToCenter" ns1:title="Animation that makes a mobject shrink to center." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="742,-643 660,-643 660,-624 742,-624 742,-643" />
+<ns0:text text-anchor="middle" x="701" y="-631" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ShrinkToCenter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge51" class="edge">
+<ns0:title>ScaleInPlace-&gt;ShrinkToCenter</ns0:title>
+<ns0:path fill="none" stroke="black" d="M568.61,-633.5C568.61,-633.5 654.73,-633.5 654.73,-633.5" />
+<ns0:polygon fill="black" stroke="black" points="654.73,-635.25 659.73,-633.5 654.73,-631.75 654.73,-635.25" />
+</ns0:g>
+
+<ns0:g id="node63" class="node">
+<ns0:title>TracedPath</ns0:title>
+<ns0:g id="a_node63"><ns0:a ns1:href="../reference/manim.animation.changing.TracedPath.html#manim.animation.changing.TracedPath" ns1:title="Traces the path of a point returned by a function call." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="369.5,-955 308.5,-955 308.5,-936 369.5,-936 369.5,-955" />
+<ns0:text text-anchor="middle" x="339" y="-943" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">TracedPath</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge68" class="edge">
+<ns0:title>VMobject-&gt;VGroup</ns0:title>
+<ns0:path fill="none" stroke="black" d="M170.68,-959.67C224.4,-959.67 339,-959.67 339,-959.67 339,-959.67 339,-959.89 339,-959.89" />
+<ns0:polygon fill="black" stroke="black" points="337.25,-956.95 339,-961.95 340.75,-956.95 337.25,-956.95" />
+</ns0:g>
+
+<ns0:g id="edge57" class="edge">
+<ns0:title>VMobject-&gt;TracedPath</ns0:title>
+<ns0:path fill="none" stroke="black" d="M170.73,-957.33C218.65,-957.33 313,-957.33 313,-957.33 313,-957.33 313,-957.11 313,-957.11" />
+<ns0:polygon fill="black" stroke="black" points="314.75,-960.05 313,-955.05 311.25,-960.05 314.75,-960.05" />
+</ns0:g>
+
+<ns0:g id="node68" class="node">
+<ns0:title>TransformMatchingShapes</ns0:title>
+<ns0:g id="a_node68"><ns0:a ns1:href="../reference/manim.animation.transform_matching_parts.TransformMatchingShapes.html#manim.animation.transform_matching_parts.TransformMatchingShapes" ns1:title="An animation trying to transform groups by matching the shape" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="602.5,-799 464.5,-799 464.5,-780 602.5,-780 602.5,-799" />
+<ns0:text text-anchor="middle" x="533.5" y="-787" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">TransformMatchingShapes</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge62" class="edge">
+<ns0:title>TransformMatchingAbstractBase-&gt;TransformMatchingShapes</ns0:title>
+<ns0:path fill="none" stroke="black" d="M422.55,-766.67C441.93,-766.67 457,-766.67 457,-766.67 457,-766.67 457,-789.5 457,-789.5 457,-789.5 459.34,-789.5 459.34,-789.5" />
+<ns0:polygon fill="black" stroke="black" points="459.34,-791.25 464.34,-789.5 459.34,-787.75 459.34,-791.25" />
+</ns0:g>
+
+<ns0:g id="node69" class="node">
+<ns0:title>TransformMatchingTex</ns0:title>
+<ns0:g id="a_node69"><ns0:a ns1:href="../reference/manim.animation.transform_matching_parts.TransformMatchingTex.html#manim.animation.transform_matching_parts.TransformMatchingTex" ns1:title="A transformation trying to transform rendered LaTeX strings." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="593,-773 474,-773 474,-754 593,-754 593,-773" />
+<ns0:text text-anchor="middle" x="533.5" y="-761" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">TransformMatchingTex</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge63" class="edge">
+<ns0:title>TransformMatchingAbstractBase-&gt;TransformMatchingTex</ns0:title>
+<ns0:path fill="none" stroke="black" d="M422.61,-760.33C422.61,-760.33 468.73,-760.33 468.73,-760.33" />
+<ns0:polygon fill="black" stroke="black" points="468.73,-762.08 473.73,-760.33 468.73,-758.58 468.73,-762.08" />
+</ns0:g>
+
+<ns0:g id="node71" class="node">
+<ns0:title>Unwrite</ns0:title>
+<ns0:g id="a_node71"><ns0:a ns1:href="../reference/manim.animation.creation.Unwrite.html#manim.animation.creation.Unwrite" ns1:title="Simulate erasing by hand a :class:`~.Text` or a :class:`~.VMobject`." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="557,-201 510,-201 510,-182 557,-182 557,-201" />
+<ns0:text text-anchor="middle" x="533.5" y="-189" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Unwrite</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge65" class="edge">
+<ns0:title>Write-&gt;Unwrite</ns0:title>
+<ns0:path fill="none" stroke="black" d="M356.6,-191.5C356.6,-191.5 504.81,-191.5 504.81,-191.5" />
+<ns0:polygon fill="black" stroke="black" points="504.81,-193.25 509.81,-191.5 504.81,-189.75 504.81,-193.25" />
+</ns0:g>
+
+<ns0:g id="node73" class="node">
+<ns0:title>UpdateFromAlphaFunc</ns0:title>
+<ns0:g id="a_node73"><ns0:a ns1:href="../reference/manim.animation.updaters.update.UpdateFromAlphaFunc.html#manim.animation.updaters.update.UpdateFromAlphaFunc" ns1:title="UpdateFromAlphaFunc" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="398.5,-71 279.5,-71 279.5,-52 398.5,-52 398.5,-71" />
+<ns0:text text-anchor="middle" x="339" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">UpdateFromAlphaFunc</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge66" class="edge">
+<ns0:title>UpdateFromFunc-&gt;UpdateFromAlphaFunc</ns0:title>
+<ns0:path fill="none" stroke="black" d="M189.34,-61.5C189.34,-61.5 274.37,-61.5 274.37,-61.5" />
+<ns0:polygon fill="black" stroke="black" points="274.37,-63.25 279.37,-61.5 274.37,-59.75 274.37,-63.25" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

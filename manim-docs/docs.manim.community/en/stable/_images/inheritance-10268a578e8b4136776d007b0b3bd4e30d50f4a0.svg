@@ -1,0 +1,113 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="423pt" height="105pt" viewBox="0.00 0.00 423.00 105.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 101)">
+<ns0:title>inheritance1a913f6bbb</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>BackgroundColoredVMobjectDisplayer</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../reference/manim.camera.camera.BackgroundColoredVMobjectDisplayer.html#manim.camera.camera.BackgroundColoredVMobjectDisplayer" ns1:title="Auxiliary class that handles displaying vectorized mobjects with" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="196,-32 0,-32 0,-13 196,-13 196,-32" />
+<ns0:text text-anchor="middle" x="98" y="-20" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">BackgroundColoredVMobjectDisplayer</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>Camera</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../reference/manim.camera.camera.Camera.html#manim.camera.camera.Camera" ns1:title="Base camera class." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="121.5,-58 74.5,-58 74.5,-39 121.5,-39 121.5,-58" />
+<ns0:text text-anchor="middle" x="98" y="-46" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Camera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>MappingCamera</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../reference/manim.camera.mapping_camera.MappingCamera.html#manim.camera.mapping_camera.MappingCamera" ns1:title="Camera object that allows mapping" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="299,-97 210,-97 210,-78 299,-78 299,-97" />
+<ns0:text text-anchor="middle" x="254.5" y="-85" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MappingCamera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>Camera-&gt;MappingCamera</ns0:title>
+<ns0:path fill="none" stroke="black" d="M91,-58.34C91,-69.89 91,-87.5 91,-87.5 91,-87.5 204.82,-87.5 204.82,-87.5" />
+<ns0:polygon fill="black" stroke="black" points="204.82,-89.25 209.82,-87.5 204.82,-85.75 204.82,-89.25" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>MovingCamera</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../reference/manim.camera.moving_camera.MovingCamera.html#manim.camera.moving_camera.MovingCamera" ns1:title="Stays in line with the height, width and position of it's 'frame', which is a Rectangle" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="296,-71 213,-71 213,-52 296,-52 296,-71" />
+<ns0:text text-anchor="middle" x="254.5" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MovingCamera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>Camera-&gt;MovingCamera</ns0:title>
+<ns0:path fill="none" stroke="black" d="M106,-58.36C106,-61.65 106,-64.5 106,-64.5 106,-64.5 207.74,-64.5 207.74,-64.5" />
+<ns0:polygon fill="black" stroke="black" points="207.74,-66.25 212.74,-64.5 207.74,-62.75 207.74,-66.25" />
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>OldMultiCamera</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../reference/manim.camera.mapping_camera.OldMultiCamera.html#manim.camera.mapping_camera.OldMultiCamera" ns1:title="OldMultiCamera" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="298.5,-45 210.5,-45 210.5,-26 298.5,-26 298.5,-45" />
+<ns0:text text-anchor="middle" x="254.5" y="-33" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">OldMultiCamera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>Camera-&gt;OldMultiCamera</ns0:title>
+<ns0:path fill="none" stroke="black" d="M99,-38.78C99,-36.9 99,-35.5 99,-35.5 99,-35.5 205.36,-35.5 205.36,-35.5" />
+<ns0:polygon fill="black" stroke="black" points="205.36,-37.25 210.36,-35.5 205.36,-33.75 205.36,-37.25" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>ThreeDCamera</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../reference/manim.camera.three_d_camera.ThreeDCamera.html#manim.camera.three_d_camera.ThreeDCamera" ns1:title="ThreeDCamera" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="295.5,-19 213.5,-19 213.5,0 295.5,0 295.5,-19" />
+<ns0:text text-anchor="middle" x="254.5" y="-7" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ThreeDCamera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>Camera-&gt;ThreeDCamera</ns0:title>
+<ns0:path fill="none" stroke="black" d="M121.52,-48.5C152.75,-48.5 204,-48.5 204,-48.5 204,-48.5 204,-6.5 204,-6.5 204,-6.5 208.26,-6.5 208.26,-6.5" />
+<ns0:polygon fill="black" stroke="black" points="208.26,-8.25 213.26,-6.5 208.26,-4.75 208.26,-8.25" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>MultiCamera</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../reference/manim.camera.multi_camera.MultiCamera.html#manim.camera.multi_camera.MultiCamera" ns1:title="Camera Object that allows for multiple perspectives." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="400,-71 328,-71 328,-52 400,-52 400,-71" />
+<ns0:text text-anchor="middle" x="364" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MultiCamera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>MovingCamera-&gt;MultiCamera</ns0:title>
+<ns0:path fill="none" stroke="black" d="M296.21,-61.5C296.21,-61.5 322.77,-61.5 322.77,-61.5" />
+<ns0:polygon fill="black" stroke="black" points="322.77,-63.25 327.77,-61.5 322.77,-59.75 322.77,-63.25" />
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>SplitScreenCamera</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../reference/manim.camera.mapping_camera.SplitScreenCamera.html#manim.camera.mapping_camera.SplitScreenCamera" ns1:title="SplitScreenCamera" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="415,-45 313,-45 313,-26 415,-26 415,-45" />
+<ns0:text text-anchor="middle" x="364" y="-33" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SplitScreenCamera</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>OldMultiCamera-&gt;SplitScreenCamera</ns0:title>
+<ns0:path fill="none" stroke="black" d="M298.72,-35.5C298.72,-35.5 307.79,-35.5 307.79,-35.5" />
+<ns0:polygon fill="black" stroke="black" points="307.79,-37.25 312.79,-35.5 307.79,-33.75 307.79,-37.25" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>

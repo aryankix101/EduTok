@@ -1,0 +1,122 @@
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://www.w3.org/1999/xlink" width="394pt" height="105pt" viewBox="0.00 0.00 394.00 105.00">
+<ns0:g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 101)">
+<ns0:title>inheritancefcc8fa5687</ns0:title>
+
+<ns0:g id="node1" class="node">
+<ns0:title>LinearTransformationScene</ns0:title>
+<ns0:g id="a_node1"><ns0:a ns1:href="../reference/manim.scene.vector_space_scene.LinearTransformationScene.html#manim.scene.vector_space_scene.LinearTransformationScene" ns1:title="This scene contains special methods that make it" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="386,-71 245,-71 245,-52 386,-52 386,-71" />
+<ns0:text text-anchor="middle" x="315.5" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">LinearTransformationScene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node2" class="node">
+<ns0:title>VectorScene</ns0:title>
+<ns0:g id="a_node2"><ns0:a ns1:href="../reference/manim.scene.vector_space_scene.VectorScene.html#manim.scene.vector_space_scene.VectorScene" ns1:title="VectorScene" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="209.5,-71 140.5,-71 140.5,-52 209.5,-52 209.5,-71" />
+<ns0:text text-anchor="middle" x="175" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">VectorScene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge1" class="edge">
+<ns0:title>VectorScene-&gt;LinearTransformationScene</ns0:title>
+<ns0:path fill="none" stroke="black" d="M209.73,-61.5C209.73,-61.5 239.92,-61.5 239.92,-61.5" />
+<ns0:polygon fill="black" stroke="black" points="239.92,-63.25 244.92,-61.5 239.92,-59.75 239.92,-63.25" />
+</ns0:g>
+
+<ns0:g id="node3" class="node">
+<ns0:title>MovingCameraScene</ns0:title>
+<ns0:g id="a_node3"><ns0:a ns1:href="../reference/manim.scene.moving_camera_scene.MovingCameraScene.html#manim.scene.moving_camera_scene.MovingCameraScene" ns1:title="This is a Scene, with special configurations and properties that" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="231,-45 119,-45 119,-26 231,-26 231,-45" />
+<ns0:text text-anchor="middle" x="175" y="-33" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">MovingCameraScene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node9" class="node">
+<ns0:title>ZoomedScene</ns0:title>
+<ns0:g id="a_node9"><ns0:a ns1:href="../reference/manim.scene.zoomed_scene.ZoomedScene.html#manim.scene.zoomed_scene.ZoomedScene" ns1:title="This is a Scene with special configurations made for when" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="354.5,-45 276.5,-45 276.5,-26 354.5,-26 354.5,-45" />
+<ns0:text text-anchor="middle" x="315.5" y="-33" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ZoomedScene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge6" class="edge">
+<ns0:title>MovingCameraScene-&gt;ZoomedScene</ns0:title>
+<ns0:path fill="none" stroke="black" d="M231.34,-35.5C231.34,-35.5 271.42,-35.5 271.42,-35.5" />
+<ns0:polygon fill="black" stroke="black" points="271.42,-37.25 276.42,-35.5 271.42,-33.75 271.42,-37.25" />
+</ns0:g>
+
+<ns0:g id="node4" class="node">
+<ns0:title>Scene</ns0:title>
+<ns0:g id="a_node4"><ns0:a ns1:href="../reference/manim.scene.scene.Scene.html#manim.scene.scene.Scene" ns1:title="A Scene is the canvas of your animation." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="71.5,-45 33.5,-45 33.5,-26 71.5,-26 71.5,-45" />
+<ns0:text text-anchor="middle" x="52.5" y="-33" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">Scene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge5" class="edge">
+<ns0:title>Scene-&gt;VectorScene</ns0:title>
+<ns0:path fill="none" stroke="black" d="M71.65,-38.67C89.05,-38.67 112,-38.67 112,-38.67 112,-38.67 112,-61.5 112,-61.5 112,-61.5 135.18,-61.5 135.18,-61.5" />
+<ns0:polygon fill="black" stroke="black" points="135.18,-63.25 140.18,-61.5 135.18,-59.75 135.18,-63.25" />
+</ns0:g>
+
+<ns0:g id="edge2" class="edge">
+<ns0:title>Scene-&gt;MovingCameraScene</ns0:title>
+<ns0:path fill="none" stroke="black" d="M71.64,-32.33C71.64,-32.33 113.95,-32.33 113.95,-32.33" />
+<ns0:polygon fill="black" stroke="black" points="113.95,-34.08 118.95,-32.33 113.95,-30.58 113.95,-34.08" />
+</ns0:g>
+
+<ns0:g id="node8" class="node">
+<ns0:title>ThreeDScene</ns0:title>
+<ns0:g id="a_node8"><ns0:a ns1:href="../reference/manim.scene.three_d_scene.ThreeDScene.html#manim.scene.three_d_scene.ThreeDScene" ns1:title="This is a Scene, with special configurations and properties that" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="211.5,-19 138.5,-19 138.5,0 211.5,0 211.5,-19" />
+<ns0:text text-anchor="middle" x="175" y="-7" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">ThreeDScene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge4" class="edge">
+<ns0:title>Scene-&gt;ThreeDScene</ns0:title>
+<ns0:path fill="none" stroke="black" d="M53,-25.82C53,-18.43 53,-9.5 53,-9.5 53,-9.5 133.4,-9.5 133.4,-9.5" />
+<ns0:polygon fill="black" stroke="black" points="133.4,-11.25 138.4,-9.5 133.4,-7.75 133.4,-11.25" />
+</ns0:g>
+
+<ns0:g id="node5" class="node">
+<ns0:title>RerunSceneHandler</ns0:title>
+<ns0:g id="a_node5"><ns0:a ns1:href="../reference/manim.scene.scene.RerunSceneHandler.html#manim.scene.scene.RerunSceneHandler" ns1:title="A class to handle rerunning a Scene after the input file is modified." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="105,-71 0,-71 0,-52 105,-52 105,-71" />
+<ns0:text text-anchor="middle" x="52.5" y="-59" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">RerunSceneHandler</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node6" class="node">
+<ns0:title>SceneFileWriter</ns0:title>
+<ns0:g id="a_node6"><ns0:a ns1:href="../reference/manim.scene.scene_file_writer.SceneFileWriter.html#manim.scene.scene_file_writer.SceneFileWriter" ns1:title="SceneFileWriter is the object that actually writes the animations" target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="95,-97 10,-97 10,-78 95,-78 95,-97" />
+<ns0:text text-anchor="middle" x="52.5" y="-85" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SceneFileWriter</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="node7" class="node">
+<ns0:title>SpecialThreeDScene</ns0:title>
+<ns0:g id="a_node7"><ns0:a ns1:href="../reference/manim.scene.three_d_scene.SpecialThreeDScene.html#manim.scene.three_d_scene.SpecialThreeDScene" ns1:title="An extension of :class:`ThreeDScene` with more settings." target="_top">
+<ns0:polygon fill="white" stroke="black" stroke-width="0" points="369.5,-19 261.5,-19 261.5,0 369.5,0 369.5,-19" />
+<ns0:text text-anchor="middle" x="315.5" y="-7" font-family="Vera Sans, DejaVu Sans, Liberation Sans, Arial, Helvetica, sans" font-size="10.00">SpecialThreeDScene</ns0:text>
+</ns0:a>
+</ns0:g>
+</ns0:g>
+
+<ns0:g id="edge3" class="edge">
+<ns0:title>ThreeDScene-&gt;SpecialThreeDScene</ns0:title>
+<ns0:path fill="none" stroke="black" d="M211.55,-9.5C211.55,-9.5 256.4,-9.5 256.4,-9.5" />
+<ns0:polygon fill="black" stroke="black" points="256.4,-11.25 261.4,-9.5 256.4,-7.75 256.4,-11.25" />
+</ns0:g>
+</ns0:g>
+</ns0:svg>
